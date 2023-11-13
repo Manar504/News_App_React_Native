@@ -1,0 +1,1 @@
+# news-app-rect-native
